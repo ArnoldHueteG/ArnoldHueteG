@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnold Huete
+====================================================================================================================================
 
-<!--
-**ArnoldHueteG/ArnoldHueteG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer and Data Engineer
+-----------------------------------
 
-Here are some ideas to get you started:
+Beginning my career as a Business Analyst and simultaneously pursuing software development as a side hustle, I honed my skills in understanding both business needs and technical solutions. Over the years, I smoothly transitioned into roles such as Data Engineer and Solutions Architect for Data, demonstrating expertise in designing robust data solutions. Currently, as a dedicated backend engineer, I am eagerly poised to expand my skill set and evolve into a well-rounded full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Lima, Perú
+*   🖥️  See my portfolio at [my web page](http://ahueteg.com/)
+*   ✉️  You can contact me at [arnold.huete@aritek.pe](mailto:arnold.huete@aritek.pe)
+*   🚀  I'm currently working on [X-team](http://x-team.com/)
+*   🧠  I'm learning LLM
